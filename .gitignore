@@ -1,0 +1,8 @@
+*
+!.gitignore
+!readme.md
+!*.c
+!*.cpp
+!*.h
+!CMakeLists.txt
+!*/
